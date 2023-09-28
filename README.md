@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+![Andres GitHub stats](https://github-readme-stats.vercel.app/api?username=10Andres10&show_icons=true&theme=synthwave)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=10Andres10&layout=compact&theme=synthwave)](https://github.com/juanpuerto23/github-readme-stats)
+
+
+
 <!--
 **10Andres10/10Andres10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
